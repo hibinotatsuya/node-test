@@ -1,3 +1,6 @@
+// https://qiita.com/riku-shiru/items/ffba3448f3aff152b6c1 を参考にした
+// 起動コマンド: node app
+// http://localhost:7000
 var express = require('express');
 var app = express();
 var http = require('http').Server(app);
